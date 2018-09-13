@@ -1,5 +1,5 @@
 # hello-world
 This it the tutorial
 
-Hello.  My name is Linda.  
-This is the tutorial test.
+Hello.   This is the tutorial test.
+My name is Linda. 
